@@ -1,3 +1,3 @@
-# A counter written in React
+# A counter
 
-### With Redux
+## Build using React and Redux
