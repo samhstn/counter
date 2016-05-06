@@ -1,6 +1,6 @@
 # A counter
 
-## Build using React and Redux
+## Build using React and Redux, tested with Mocha and Expect
 
 CounterWithTests is a counter with standard tests
 
